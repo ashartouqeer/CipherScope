@@ -30,14 +30,6 @@ The program counts the occurrences of each alphabetic character and calculates i
 ### 2. Caesar Cipher Brute Force
 The program tests all 26 possible Caesar cipher shifts and displays the resulting plaintext candidates.
 
-## Screenshots
-
-### Frequency Analysis
-![Frequency Analysis](screenshots/frequency-analysis.png)
-
-### Caesar Cipher Brute Force
-![Caesar Brute Force](screenshots/caesar-bruteforce.png)
-
 ## How to Run
 
 1. Download or clone this repository.
