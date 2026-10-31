@@ -33,10 +33,10 @@ The program tests all 26 possible Caesar cipher shifts and displays the resultin
 ## Screenshots
 
 ### Frequency Analysis
-![Frequency Analysis](screenshots/frequency_analysis.png)
+![Frequency Analysis](screenshots/frequency-analysis.png)
 
 ### Caesar Cipher Brute Force
-![Caesar Brute Force](screenshots/caesar_bruteforce.png)
+![Caesar Brute Force](screenshots/caesar-bruteforce.png)
 
 ## How to Run
 
