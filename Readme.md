@@ -30,6 +30,14 @@ The program counts the occurrences of each alphabetic character and calculates i
 ### 2. Caesar Cipher Brute Force
 The program tests all 26 possible Caesar cipher shifts and displays the resulting plaintext candidates.
 
+## Screenshots
+
+### Frequency Analysis
+![Frequency Analysis](screenshots/frequency-analysis.png)
+
+### Caesar Cipher Brute Force
+![Caesar Brute Force](screenshots/caesar-bruteforce.png)
+
 ## How to Run
 
 1. Download or clone this repository.
@@ -38,22 +46,11 @@ The program tests all 26 possible Caesar cipher shifts and displays the resultin
 4. Enter your ciphertext.
 5. Select the analysis method.
 
-## Project Purpose
-
-This project was created to explore introductory cryptography, cryptanalysis, and cybersecurity concepts while developing practical C++ programming skills.
-
 ## Limitations
 
 - Frequency analysis provides statistical information but does not automatically decrypt arbitrary substitution ciphers.
 - Caesar brute force only works against Caesar-shift encryption.
 - The program currently supports English alphabetic characters.
-
-## Future Improvements
-
-- More advanced substitution cipher analysis
-- Text file input
-- Bigram and trigram frequency analysis
-- Improved user interface
 
 ## Author
 
